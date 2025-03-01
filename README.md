@@ -1,8 +1,5 @@
 # 🔐 Checksum
 
-[![Crates.io](https://img.shields.io/crates/v/checksum)](https://crates.io/crates/checksum)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/username/checksum/rust.yml?branch=main)](https://github.com/username/checksum/actions)
-[![Downloads](https://img.shields.io/crates/d/checksum)](https://crates.io/crates/checksum)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust Version](https://img.shields.io/badge/rust-1.70%2B-blue.svg)](https://www.rust-lang.org/)
 
